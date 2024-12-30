@@ -7,4 +7,4 @@ This React.js project was created using [Vite](https://vitejs.dev/) for fast dev
 
 ## Live Demo
 
-Check out the deployed project: [React E-Commerce Website](https://auxtine.github.io/portfolio-web/#/)
+Check out the deployed project: [Todo web-app](https://auxtine.github.io/todo-app)
