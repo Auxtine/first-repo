@@ -4,3 +4,7 @@ A simple and interactive To-Do app where users can add tasks they need to comple
 
 This React.js project was created using [Vite](https://vitejs.dev/) for fast development and optimized builds.
 
+
+## Live Demo
+
+Check out the deployed project: [React E-Commerce Website](https://auxtine.github.io/portfolio-web/#/)
