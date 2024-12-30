@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import styles from "./form.module.css"
 import {useState} from "react";
 export default function Form({todos,setTodos}){
