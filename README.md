@@ -8,3 +8,6 @@ This React.js project was created using [Vite](https://vitejs.dev/) for fast dev
 ## Live Demo
 
 Check out the deployed project: [Todo web-app](https://auxtine.github.io/todo-app)
+
+<!-- npm run build
+npm run dev -->
